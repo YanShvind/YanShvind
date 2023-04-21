@@ -1,6 +1,10 @@
 
-[![Codewars](https://www.codewars.com/users/ЯнчикSwift/badges/large)](https://www.codewars.com/users/ЯнчикSwift)
+
 <h1 align="center">Hi 👋, I'm Yan Shvyndikov</h1>
+
+<p align="center">
+  <img src="https://www.codewars.com/users/ЯнчикSwift/badges/large">
+</p>
 
 ### :man_technologist: About Me :
 I am a iOS-Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
