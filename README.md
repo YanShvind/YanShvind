@@ -1,5 +1,5 @@
 
-
+[![Codewars](https://www.codewars.com/users/ЯнчикSwift/badges/large)](https://www.codewars.com/users/ЯнчикSwift)
 <h1 align="center">Hi 👋, I'm Yan Shvyndikov</h1>
 
 ### :man_technologist: About Me :
